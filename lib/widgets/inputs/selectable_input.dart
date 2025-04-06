@@ -1,6 +1,6 @@
 // widgets/selectable_input.dart
 import 'package:flutter/material.dart';
-import 'text-input.dart';
+import 'text_input.dart';
 
 class SelectableInput<T> extends StatelessWidget {
   final String label;

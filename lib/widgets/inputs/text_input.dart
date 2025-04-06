@@ -1,4 +1,3 @@
-// widgets/text_input.dart
 import 'package:flutter/material.dart';
 
 class TextInput extends StatelessWidget {

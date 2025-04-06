@@ -1,0 +1,3 @@
+enum Role { ADMIN, MANAGER, EMPLOYEE, CLIENT }
+
+enum UserType { BUSINESS, CLIENT }
